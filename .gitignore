@@ -1,0 +1,10 @@
+# 忽略虚拟环境文件夹（千万别传上去，太大了）
+.venv/
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略操作系统文件
+.DS_Store
+Thumbs.db
